@@ -1,1 +1,4 @@
 test_loopback
+*.so
+*/dist
+*.egg-info
